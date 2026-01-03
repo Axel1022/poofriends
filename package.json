@@ -1,6 +1,11 @@
 {
   "name": "app",
   "private": true,
+  "version": "0.1.0",
+  "author": {
+    "name": "Cibera SRL",
+    "email": "rrhhcibera@outlook.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
